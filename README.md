@@ -6,7 +6,7 @@ A non-developer co-worker has attempted to implement a design in haste and while
 
 ## Instructions
 1. Clone this repo to your local development environment
-2. Refer to the design mock-ups while developing the home page [Design Assets](tree/master/assets)
+2. Refer to the design mock-ups while developing the home page [Design Assets](https://github.com/IglooSoftware/Code-Challenge-WEB-Members/tree/master/assets)
 3. Start your work in the index.html file
 4. Bind an event to the *load more* button within `js/main.js` to trigger an API call that will retrieve and display the next collection of members from the mock API service provided by [Randomuser.me](https://randomuser.me). Page size should be 5 and ajax calls should leverage the provided apiClient loaded from `js/apiClient.js`.
 
