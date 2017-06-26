@@ -70,26 +70,32 @@ h2 {
 }
 
 #js-btn-action-more {
-
     text-align: center;
     background-color: skyblue;
     color: white;
-
+    margin-bottom: 10px;
+    padding-bottom: 20px
 }
 
 a:hover{
   color: blue;
 }
 #content{
-  margin: 0 auto;
+  margin: 50px;
+  padding-bottom: 10px;
 }
+
+.rowUsers {
+  display: flex;
+  justify-content: space-around;
+}
+
 .footer {
   background: #000;
   color: #FFF;
-  position: absolute;
   left: 0;
   bottom: 0;
-  height: 200px;
+  height: 100px;
   width: 100%;
   overflow: hidden;
   display: flex;
@@ -101,9 +107,13 @@ a:hover{
   content:"\00a9 2016";
 }
 
-.footer img {
-    margin-bottom: 150px;
-    padding-right: 50px;
+.rowUsers img {
+  border-radius: 100px;
+}
 
+
+.footer img {
+    padding-right: 50px;
     padding-top: 10px;
+    height: 30px;
 }
