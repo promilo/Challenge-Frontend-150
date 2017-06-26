@@ -9,7 +9,7 @@ Hence at the 5th click of the button "load more" the button color change to red 
 ## Libraries
 -jquery because it makes it easier Ajax Calls and DOM manipulation
 
-## Here were the instructions I was given for this coding Challenge.s
+## Here were the instructions I was given for this coding Challenge
 1. Clone this repo to your local development environment
 2. Refer to the design mock-ups while developing the home page [Design Assets](https://github.com/IglooSoftware/Code-Challenge-WEB-Members/tree/master/assets)
 3. Start your work in the index.html file
