@@ -33,7 +33,7 @@ h1 {
     padding-top: 50px
 }
 #content {
-        
+       text-align: center;  
 }
 .banner {
     width: 100%;
@@ -68,7 +68,8 @@ h2 {
     justify-content: center;
 }
 
-button {
+#js-btn-action-more {
+  
     text-align: center;
     background-color: skyblue;
     color: white;
@@ -84,10 +85,15 @@ a:hover{
 .footer {
   background: #000;
   color: #FFF;
-    text-align: inline-block;
+    display: flex;
+    justify-content: space-around
 }
 .footer p {
+    display: inline-block;
+    padding-right: 100px;
+}
 
+.footer img {
+    text-align; right;
     padding-left: 100px;
-    
 }
